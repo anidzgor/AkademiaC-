@@ -1,0 +1,14 @@
+c:\users\adrian\documents\visual studio 2015\Projects\Firma\Firma\bin\Debug\Firma.exe.config
+c:\users\adrian\documents\visual studio 2015\Projects\Firma\Firma\bin\Debug\Firma.exe
+c:\users\adrian\documents\visual studio 2015\Projects\Firma\Firma\bin\Debug\Firma.pdb
+c:\users\adrian\documents\visual studio 2015\Projects\Firma\Firma\obj\Debug\MainWindow.g.cs
+c:\users\adrian\documents\visual studio 2015\Projects\Firma\Firma\obj\Debug\App.g.cs
+c:\users\adrian\documents\visual studio 2015\Projects\Firma\Firma\obj\Debug\Firma_MarkupCompile.cache
+c:\users\adrian\documents\visual studio 2015\Projects\Firma\Firma\obj\Debug\Firma_MarkupCompile.lref
+c:\users\adrian\documents\visual studio 2015\Projects\Firma\Firma\obj\Debug\MainWindow.baml
+c:\users\adrian\documents\visual studio 2015\Projects\Firma\Firma\obj\Debug\Firma.g.resources
+c:\users\adrian\documents\visual studio 2015\Projects\Firma\Firma\obj\Debug\Firma.Properties.Resources.resources
+c:\users\adrian\documents\visual studio 2015\Projects\Firma\Firma\obj\Debug\Firma.csproj.GenerateResource.Cache
+c:\users\adrian\documents\visual studio 2015\Projects\Firma\Firma\obj\Debug\Firma.exe
+c:\users\adrian\documents\visual studio 2015\Projects\Firma\Firma\obj\Debug\Firma.pdb
+c:\users\adrian\documents\visual studio 2015\Projects\Firma\Firma\obj\Debug\Firma.csprojResolveAssemblyReference.cache
