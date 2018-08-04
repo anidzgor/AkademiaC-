@@ -8,3 +8,4 @@ Jeżeli jakieś pole będzie puste lub np. w textboxie wiek znajdzie się ciąg 
 zły ciąg i trzeba go poprawić.
 4) W menu jest również opcja Exit powodująca zamknięcie aplikacji.
 
+![alt text](https://github.com/anidzgor/AkademiaC-/blob/master/firma.png)
